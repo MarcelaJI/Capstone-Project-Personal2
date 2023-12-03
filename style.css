@@ -1,0 +1,224 @@
+
+h1 {
+    color:rgb(5, 100, 189);
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: "sacramento" , cursive;
+   
+}
+ 
+h1 {
+    display: block;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+h2 {
+    color: rgb(5, 100, 189);
+    font-size: 2.5rem;
+    margin: 50px auto 0 auto;
+    font-family: "Monserrat" , sans-serif;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+h2 {
+    display: block;
+    margin-inline-start: 0.83em;
+    margin-inline-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+ 
+
+}
+
+.top-container {
+   
+    background-color: rgb(167, 208, 255);
+    text-align: center;
+    position:relative;
+    padding-top: 100px;
+    
+    
+}
+
+div {
+    display: block;
+}
+.girl-programming {
+   width: 400px;
+   height: 200x;
+   border-radius: 50%;
+
+} 
+
+body {
+    text-align: center;
+    font-family:"Merriweather", serif;
+
+}
+
+.profile-Marcela {
+    width: 165px;
+    height: 200px;
+    margin-top: 40px;
+    border-radius: 50%;
+      
+}
+
+.lead {
+    font-family:"Merriweather", serif; 
+    text-align: center;
+    font-size: large;
+    justify-content: center;  
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.box-container {
+    display: block;
+    margin-inline-start:auto;
+    margin-inline-end: auto;
+    padding: 25px;
+    background-color: rgb(167, 208, 255);
+    border-radius: 5px;
+    max-width: 150px;
+    margin-bottom: 25%;
+    text-align: center;
+}
+
+
+h3 {
+    text-align: start;
+    margin: auto;
+    color: rgb(5, 100, 189);
+}
+
+.p-skills{
+    text-align:start;
+    margin-bottom: 1%;
+}
+.caisher-container {
+    text-align: start;
+    margin-bottom: 1%;
+}
+.customers-container {
+    text-align: start;
+    margin-bottom: 1%;
+}
+.babysitter-container {
+    text-align: start;
+    margin-bottom: 1%;
+}
+
+
+.cat-typing {
+    justify-content: center;
+    align-items: center;
+    margin-inline-start:auto;
+    margin-inline-end: auto;
+    display: flex;
+    height: 200px;
+
+}
+
+hr {
+    display: block;
+    unicode-bidi: isolate;
+    margin-block-start: 0.5em;
+    margin-block-end: 0.5em;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+    overflow: hidden;
+    
+}
+
+
+@media (max-width:1600px) {
+
+}
+
+.traveling {
+display: inline-block;
+height: 300px;
+width: 250px;
+}
+
+.dessert {
+    display: inline-block;
+    height: 300px;
+    width: 250px;
+}
+
+.box-contact {
+    display: block;
+    background-color:rgb(167, 208, 255);
+    margin-inline-start:auto;
+    margin-inline-end: auto;
+    padding: 25px;
+    text-align: center;
+    max-width: 350px;
+    margin-bottom: 4%;
+}
+
+.contact-messag {
+    color: rgb(5, 100, 189);
+    margin:auto;
+    text-align: center;
+    display: block;
+    font-size: large;
+    font-weight: bold; 
+}
+
+.contact-messag1 {
+    margin: 2%;
+    display: flex;
+    text-align: center;
+    font-size: large;
+   
+
+}
+
+.btn {
+    background: rgb(5, 100, 189);
+    color: #fff;
+    border-radius: 8px;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    font-family: "Montserrat", sans-serif;
+}
+
+.botton-container {
+    background-color:  rgb(5, 100, 189);
+    padding: 40px 0 20px;
+    margin-top: 8%;
+}
+
+.footer-link {
+    color: #fff;
+    align-items: center;
+    margin-inline-start: 1%;
+    font-size: medium;
+    font-family: "Montserrat", sans-serif;
+}
+.copyright {
+    color: #eaf6fe;
+    font-size: 0.80rem;
+    padding: 20px 0;
+    font-family: "Montserrat", sans-serif;
+}
+
+
+
+     
+
